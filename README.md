@@ -9,6 +9,7 @@ Pablo Sainz Pino
 
 Víctor de Marco Velasco
 
+
 1. Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
 
    Para comenzar, debemos crear el repositorio deseado haciendo un "fork" al repositorio indicado, en este caso https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
@@ -19,22 +20,24 @@ Víctor de Marco Velasco
 
   ![image](https://github.com/user-attachments/assets/f844f4d0-3357-4354-9849-8d08de848564)
 
-  También tenemos que habilitar los issues, para ello, dentro de ajustes, vamos a general y activamos la siguiente opción:
+   También tenemos que habilitar los issues, para ello, dentro de ajustes, vamos a general y activamos la siguiente opción:
 
   ![image](https://github.com/user-attachments/assets/c12f0720-5973-4470-bde1-183190a1e890)
 
-  Para realizar está práctica también debemos configurar la extensión de Chrome de Zenhub. Una vez instalada, lo ejecutamos e iniciamos sesión con nuestra cuenta de Github. Creamos un workspace y lo vinculamos al repositorio de Github creado anteriormente. A su vez, invitamos también a las personas con las que vamos a colaborar:
+   Para realizar está práctica también debemos configurar la extensión de Chrome de Zenhub. Una vez instalada, lo ejecutamos e iniciamos sesión con nuestra cuenta de Github. Creamos un workspace y lo vinculamos al repositorio de Github creado anteriormente. A su vez, invitamos también a las personas con las que vamos a colaborar:
 
   ![image](https://github.com/user-attachments/assets/63221038-4e2c-4f6a-8c41-28415d09dd2e)
 
   ![image](https://github.com/user-attachments/assets/6e5f5449-050b-4137-8f2e-69023103f671)
 
-  Una vez realizados estos pasos, ya podemos abrir nuestro repositorio desde Github y crear los issues desde la pestaña de Zenhub que veremos añadida
+   Una vez realizados estos pasos, ya podemos abrir nuestro repositorio desde Github y crear los issues desde la pestaña de Zenhub que veremos añadida
 
   ![image](https://github.com/user-attachments/assets/e5af5bc6-c3e5-4890-9e1d-e33cbf3eb009)
 
+
+
   
-3. Filtro por Epics, US y Tasks en la columna de New Issues
+2. Filtro por Epics, US y Tasks en la columna de New Issues
 
   Epic:
   
