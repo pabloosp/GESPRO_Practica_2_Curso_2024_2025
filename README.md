@@ -46,4 +46,9 @@ Víctor de Marco Velasco
   ![image](https://github.com/user-attachments/assets/0f774b39-48a9-49d1-aaf9-2fe67d68e551)
 
 
-8. Imagen de conversación en dos tareas 
+8. Imagen de conversación en dos tareas
+
+ ![image](https://github.com/user-attachments/assets/0fd4a424-caed-45c6-95af-d37130594095)
+
+ ![image](https://github.com/user-attachments/assets/bd176eef-bb9b-4049-997d-7d7336366506)
+
