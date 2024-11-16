@@ -4,6 +4,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositorio.
 
 Incluid debajo el nombre de los miembros del grupo:
+
 Pablo Sainz Pino
 Víctor de Marco Velasco
 
@@ -40,5 +41,7 @@ Víctor de Marco Velasco
   ![image](https://github.com/user-attachments/assets/cb2f8d72-8d2b-48fd-8cde-754d23308af9)
 
 7. Tareas de la 2da Release en progreso y filtradas por algún topic
-  ![Uploading image.png…]()
+
+  ![image](https://github.com/user-attachments/assets/524a64ec-80a6-4100-9df6-b65890056e1f)
+
 8. Imagen de conversación en dos tareas 
