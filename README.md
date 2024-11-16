@@ -42,6 +42,7 @@ Víctor de Marco Velasco
 
 7. Tareas de la 2da Release en progreso y filtradas por algún topic
 
-  ![image](https://github.com/user-attachments/assets/524a64ec-80a6-4100-9df6-b65890056e1f)
+  ![image](https://github.com/user-attachments/assets/0f774b39-48a9-49d1-aaf9-2fe67d68e551)
+
 
 8. Imagen de conversación en dos tareas 
