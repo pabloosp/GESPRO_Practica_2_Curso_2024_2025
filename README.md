@@ -20,6 +20,7 @@ Víctor de Marco Velasco
   ![image](https://github.com/user-attachments/assets/66b3327e-90be-4f9c-b31d-287b658749bf)
 
 4. Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS)
+   
   In progress:
 
   ![image](https://github.com/user-attachments/assets/3605afeb-6518-497e-a542-61f497892344)
